@@ -33,18 +33,22 @@ Here’s a sneak peek of what you can expect from the template:
 ![image](https://github.com/user-attachments/assets/ef5827e6-8c1f-4351-80ed-2f2d940416d4)
 
 ## ❤️ Why You’ll Love It
+
 - **Thoughtful and Personal**: Perfect for creating a heartfelt Valentine’s Day message or just a spontaneous declaration of love.
 - **User-Friendly**: Simple to use, no coding skills required.
 - **Creative**: Bring your ideas to life with interactive web elements.
 
 ## 💕 Made with Love
-This project made with love by [Ujjwal](https://github.com/UjjwalSaini07). </br>Feel free to use it to ask your own special someone to be your Valentine! & express your feeling in unique and memorable way..
+
+Made with love! ❤️ Feel free to use it to ask your own special someone to be your Valentine! & express your feeling in unique and memorable way..
 
 ## 📄 License
-License Credential [Check](https://github.com/UjjwalSaini07/AlwaysBeMine/blob/main/LICENSE). </br>You can use this project the way you want. Feel free to credit me if you want to!
+
+You can use this project the way you want.
 
 ## 💌 Feedback and Contributions
-Feedback and contributions are always welcome! Feel free to open an [Issue](https://github.com/UjjwalSaini07/AlwaysBeMine/issues/new).
+
+Feedback and contributions are always welcome!
 
 <div align="center">
     <a href="#top">
