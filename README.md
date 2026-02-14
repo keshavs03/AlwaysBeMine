@@ -19,11 +19,9 @@ This template combines creativity and coding to create an experience that will l
 
 To get started with this project, follow these steps:
 
-1. **Star the [Main Repository](https://github.com/UjjwalSaini07/AlwaysBeMine)**
-2. **Fork The [Repository](https://github.com/UjjwalSaini07/AlwaysBeMine) (If u Want to Contribute Then use this Step)**
-3. **Clone the repository**
-4. **Install the Dependancies `npm/pnpm install`**
-5. **Start the development server with `npm/pnpm run dev`**
+1. **Clone the repository**
+2. **Install the Dependancies `npm install`**
+3. **Start the development server with `npm run dev`**
 
 ## 📷 ScreenShots
 
